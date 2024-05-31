@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/process/test_job_cloud_00327951_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TEST_00327951</talend.project.name>
