@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_HhRQ0R90Ee-_8_Tzy5exOQ" label="test_project" description="" language="java" technicalLabel="TEST_PROJECT" creationDate="2024-05-31T03:23:09.284-0700" author="_HhRQ0h90Ee-_8_Tzy5exOQ" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ddelgadillostitchdata/00327951_731.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_IPdMgB90Ee-_8_Tzy5exOQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_HhRQ0h90Ee-_8_Tzy5exOQ" login="david.delgadillo@qlik.com" firstName="David" lastName="Del" type="DI" additionnalData="{}"/>
+</xmi:XMI>
